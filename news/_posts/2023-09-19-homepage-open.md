@@ -6,6 +6,8 @@ description: >
   Howdy! I launch my academic homepage. I waste my time quite a lot to learn how Jekyll+HTML is working...
 sitemap: false
 hide_last_modified: true
+categories: [news]
+tags:       [news]
 ---
 
 Greetings, fellow enthusiasts of __Computer Vision__!\\
