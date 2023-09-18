@@ -1,11 +1,10 @@
 ---
 layout: list
 title: Contact
+slug: contact
 description: >
   contact infomation
 hide_description: true
-sitemap: false
-permalink: /contact/
 ---
 
 #### Address
