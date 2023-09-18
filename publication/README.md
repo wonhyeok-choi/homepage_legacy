@@ -5,7 +5,7 @@ description: >
   add Publications on this section 
 hide_description: true
 sitemap: false
-permalink: /publcation/
+permalink: /publication/
 ---
 
 ![realtime](./assets/img/publication/icra24.gif){: width="70%" height="70%"}
