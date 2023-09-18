@@ -8,7 +8,6 @@ hide_description: true
 sitemap: false
 hide_last_modified: true
 categories: [news]
-tags:       [news]
 ---
 
 Greetings, fellow enthusiasts of __Computer Vision__!\\
