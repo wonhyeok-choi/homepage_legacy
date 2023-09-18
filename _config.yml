@@ -50,8 +50,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  # - title:             Publication
-  #   url:               /publication/
+  - title:             Contact
+    url:               /contact/
   # - title:             News
   #   url:               /news/
   # - title:             Academic Activities
