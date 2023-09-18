@@ -68,15 +68,21 @@ My research interest is computer vision and deep learning, with a particular emp
 # Skills
 
 >__Deep Learning Framework__ :
+>
 >`Pytorch` ★★★
 
->__Development Tools__ : 
+>__Development Tools__ :
+>
 >`Python` ★★★
+>
 >`C++` ★★☆
+>
 >`C#` ★★☆
 
 >__Web Development__ :
+>
 >`HTML` ★☆☆
+>
 >`CSS` ★☆☆
 
 ***
