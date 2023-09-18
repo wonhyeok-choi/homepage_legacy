@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Integrated MS/Ph.D degree
+tagline:               M.S. / Ph.D Integrated Course Student researching Computer Vision.
 
 # A list of keywords for your blog
 keywords:              []
@@ -37,7 +37,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/me.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -50,12 +50,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Education
-    url:               /example/
+  - title:             News
+    url:               /news/
   - title:             Publication
     url:               /docs/
-  - title:             Academic Activities
-    url:               /about/
+  # - title:             Academic Activities
+  #   url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -335,7 +335,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
-  - jekyll-avatar
+    #  - jekyll-avatar
 
 
 # SEO Tag

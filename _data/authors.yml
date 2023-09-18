@@ -8,27 +8,27 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     
-    Open `_data/authors.yml` to edit this text.
+    Hello, I am __Wonhyeok Choi__, a M.S.-Ph.D. integrated course student at the Department of Electrical Engineering & Computer Sciences (EECS) at DGIST, South Korea, under the supervision of [<span style='color: skyblue'>Prof. Sunghoon Im</span>](https://sunghoonim.github.io/) in the [<span style='color: skyblue'>DGIST Computer Vision Lab</span>](https://cvlab.dgist.ac.kr/).\\
+    My research interest is computer vision and deep learning, with a particular emphasis on solving __Dynamic Neural network__, __Multi-task learning & Meta-learning__, and __Neural Architecture Search__.
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            /assets/img/me.jpg
+    # path:            https://via.placeholder.com/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+    # srcset:
+    #   1x:            https://via.placeholder.com/128x128
+    #   2x:            https://via.placeholder.com/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    # twitter:         <username>
+    github:          wonhyeok-choi
+    email:           smu06117@dgist.ac.kr
+    scholar:         https://scholar.google.co.kr/citations?user=7zAhXNIAAAAJ
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -67,16 +67,16 @@ author1:
     # keybase          <username>
 
 # Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# author2:
+#   name:              <firtname> <lastname>
+#   email:             <mail@domain.tld>
+#   about:             |
+#     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-    Open `_data/authors.yml` to edit this text.
+#     Open `_data/authors.yml` to edit this text.
 
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+#   picture:           https://placehold.it/128x128
+#   twitter:           <username>
+#   github:            <username>
