@@ -34,6 +34,8 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-avatar (0.8.0)
+      jekyll (>= 3.0, < 5.0)
     jekyll-compose (0.12.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-default-layout (0.1.5)
@@ -107,6 +109,7 @@ PLATFORMS
 DEPENDENCIES
   duktape
   jekyll (~> 4.1)
+  jekyll-avatar
   jekyll-compose
   jekyll-default-layout
   jekyll-feed
