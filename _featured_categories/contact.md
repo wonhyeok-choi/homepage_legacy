@@ -10,8 +10,6 @@ menu: false
 
 #### Address
 
-***
-
 Computer Vision Laboratory
 
 Dept. of Electrical Engineering and Computer Science (EECS),
@@ -24,7 +22,7 @@ DGIST,
 
 Daegu, 42988, Republic of Korea
 
-***
+___
 
 대구경북과학기술원,
 
@@ -34,15 +32,11 @@ Daegu, 42988, Republic of Korea
 
 #### Phone
 
-***
-
 (+82) 10 2997 2903
 
 ***
 
 #### Email
-
-***
 
 smu06117 at dgist.ac.kr
 
