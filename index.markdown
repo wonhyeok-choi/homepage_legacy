@@ -5,16 +5,23 @@
 layout: list
 ---
 
-# About me
+<!-- # Welcome ! -->
+<!-- ![header](./assets/img/angle-double-right.svg){: width="30" height="30"} -->
+<!-- ![header](./assets/img/header.jpg){: width="30" height="30"} -->
+<b><span style="color:black; font-size:200%">
+About me
+</span></b>
 
 ![realtime](./assets/img/me2.jpg){: width="70%" height="70%"}
 
-Hello, I am __Wonhyeok Choi__, a M.S.-Ph.D. integrated course student at the Department of Electrical Engineering & Computer Sciences (EECS) at DGIST, South Korea, under the supervision of [<span style='color: skyblue'>Prof. Sunghoon Im</span>](https://sunghoonim.github.io/) in the [<span style='color: skyblue'>DGIST Computer Vision Lab</span>](https://cvlab.dgist.ac.kr/).
+Hi, I am __Wonhyeok Choi__, a M.S.-Ph.D. integrated course student at the Department of Electrical Engineering & Computer Sciences (EECS) at DGIST, South Korea, under the supervision of [<span style='color: skyblue'>Prof. Sunghoon Im</span>](https://sunghoonim.github.io/) in the [<span style='color: skyblue'>DGIST Computer Vision Lab</span>](https://cvlab.dgist.ac.kr/).
 My research interest is computer vision and deep learning, with a particular emphasis on solving __Dynamic Neural network__, __Multi-task learning & Meta-learning__, and __Neural Architecture Search__.
 
 ***
 
-# Publication
+<b><span style="color:black; font-size:200%">
+Publication
+</span></b>
 
 ![realtime](./assets/img/publication/icra24.gif){: width="70%" height="70%"}
 
@@ -44,7 +51,9 @@ My research interest is computer vision and deep learning, with a particular emp
 
 ***
 
-# Education
+<b><span style="color:black; font-size:200%">
+Education
+</span><b>
 
 >__M.S - Ph.D Integrated Course__ in Electrical Engineering & Computer Science (EECS), DGIST, South Korea (Mar. 2022 -)
 
@@ -53,21 +62,25 @@ My research interest is computer vision and deep learning, with a particular emp
 
 ***
 
-# Academic Activities
+<b><span style="color:black; font-size:200%">
+Academic Activities
+</span><b>
 
-### Reviewer
+#### Reviewer
 
 >IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
 
 >IEEE International Conference on Computer Vision (ICCV) 2023.
 
-### Scholarships & Awards
+#### Scholarships & Awards
 
 >Participation Prize, 28th HumanTech Paper Award, Samsung Electronics Co., Ltd, Feb 2022.
 
 ***
 
-# Skills
+<b><span style="color:black; font-size:200%">
+Skills
+</span><b>
 
 >__Deep Learning Framework__ :
 >
@@ -87,8 +100,14 @@ My research interest is computer vision and deep learning, with a particular emp
 >
 >`CSS` ★☆☆
 
+<!-- >__Language__ :
+>
+>`English` ☆☆☆
+>
+>`Korean` ★☆☆ -->
+
 ***
 
-# News
-
-***
+<b><span style="color:black; font-size:200%">
+News
+</span><b>
