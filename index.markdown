@@ -7,6 +7,8 @@ layout: list
 
 # About me
 
+![realtime](./assets/img/me2.jpg){: width="70%" height="70%"}
+
 Hello, I am __Wonhyeok Choi__, a M.S.-Ph.D. integrated course student at the Department of Electrical Engineering & Computer Sciences (EECS) at DGIST, South Korea, under the supervision of [<span style='color: skyblue'>Prof. Sunghoon Im</span>](https://sunghoonim.github.io/) in the [<span style='color: skyblue'>DGIST Computer Vision Lab</span>](https://cvlab.dgist.ac.kr/).
 My research interest is computer vision and deep learning, with a particular emphasis on solving __Dynamic Neural network__, __Multi-task learning & Meta-learning__, and __Neural Architecture Search__.
 
