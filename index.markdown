@@ -55,7 +55,7 @@ Publication
 Education
 </span><b>
 
->__M.S - Ph.D Integrated Course__ in Electrical Engineering & Computer Science (EECS), DGIST, South Korea (Mar. 2022 -)
+>__M.S - Ph.D. Integrated Course__ in Electrical Engineering & Computer Science (EECS), DGIST, South Korea (Mar. 2022 -)
 
 >__Bachelor of Convergence Science__, DGIST, South Korea (Mar. 2018 - Feb. 2022)
 
@@ -71,6 +71,8 @@ Academic Activities
 >IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
 
 >IEEE International Conference on Computer Vision (ICCV) 2023.
+
+>IEEE International Conference on Robotics and Automation (ICRA) 2024.
 
 #### Scholarships & Awards
 
