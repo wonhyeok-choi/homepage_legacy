@@ -76,7 +76,7 @@ Academic Activities
 
 #### Scholarships & Awards
 
->Grand Prize, Autonomous Driving AI Development Challenge 2023, Korea Transportation Safety Authority (TS, 한국교통안전공단), Oct 2023
+>Grand Prize, Autonomous Driving AI Development Challenge 2023, Ministry of Land, Infrastructure and Transport (국토교통부), Oct 2023
 
 >Participation Prize, 28th HumanTech Paper Award, Samsung Electronics Co., Ltd, Feb 2022.
 
