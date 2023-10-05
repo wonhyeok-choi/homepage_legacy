@@ -68,13 +68,15 @@ Academic Activities
 
 #### Reviewer
 
+>IEEE International Conference on Robotics and Automation (ICRA) 2024.
+
 >IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
 
 >IEEE International Conference on Computer Vision (ICCV) 2023.
 
->IEEE International Conference on Robotics and Automation (ICRA) 2024.
-
 #### Scholarships & Awards
+
+>Grand Prize, Autonomous Driving AI Development Challenge 2023, Korea Transportation Safety Authority (TS, 한국교통안전공단), Oct 2023
 
 >Participation Prize, 28th HumanTech Paper Award, Samsung Electronics Co., Ltd, Feb 2022.
 
