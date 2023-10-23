@@ -11,6 +11,7 @@ menu: false
 #### Resume
 
 > Curriculum Vitae: [<a href="./assets/Curriculum_Vitae.pdf" download="cv.pdf">Download CV</a>]
+> 
 > Portfolio: [<a href="./assets/Portfolio_wonhyeok_choi.pdf" download="portfolio.pdf">Download Portfolio</a>]
 
 #### Address
