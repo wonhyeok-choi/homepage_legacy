@@ -63,6 +63,7 @@ Education
 
 >__Bachelor of Convergence Science__, DGIST, South Korea (Mar. 2018 - Feb. 2022)
 
+>Hansung Science High School, South Korea (Mar. 2016 - Feb 2018)
 
 ***
 
@@ -74,15 +75,17 @@ Academic Activities
 
 >IEEE International Conference on Robotics and Automation (ICRA) 2024.
 
->IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
+>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023-2024.
 
 >IEEE International Conference on Computer Vision (ICCV) 2023.
 
 #### Scholarships & Awards
 
->Grand Prize, Autonomous Driving AI Development Challenge 2023, Ministry of Land, Infrastructure and Transport (국토교통부), Oct 2023
+>Hwang Gyuyoung Outstanding Researcher Award (황규영 우수연구자상), Electronic Engineering & Computer Sciences (EECS), DGIST, Oct. 2023
 
->Participation Prize, 28th HumanTech Paper Award, Samsung Electronics Co., Ltd, Feb 2022.
+>Grand Prize, Autonomous Driving AI Development Challenge 2023, Ministry of Land, Infrastructure and Transport (국토교통부), Oct. 2023
+
+>Participation Prize, 28th HumanTech Paper Award, Samsung Electronics Co., Ltd, Feb. 2022.
 
 ***
 
@@ -98,7 +101,7 @@ Skills
 >
 >`Python` ★★★
 >
->`C++` ★★☆
+>`C/C++` ★★☆
 >
 >`C#` ★★☆
 
