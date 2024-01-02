@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I received the Outstanding Researcher Award of the DGIST!
-date: 2023-10-31 14:00:00 +0900
+date: 2023-12-19 14:00:00 +0900
 description: >
     award
 sitemap: false
