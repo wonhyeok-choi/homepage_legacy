@@ -30,7 +30,7 @@ Publication
 ![realtime](./assets/img/publication/icra24.gif){: width="70%" height="70%"}
 
 >__Wonhyeok Choi\*__, Mingyu Shin\*, Hyukzae Lee, Jaehoon Cho, Jaehyeon Park, Sunghoon Im. _"Multi-task Learning for Real-time Autonomous Driving leveraging Task-wise Attention Generator"_, IEEE International Conference on Robotics and Automation (ICRA), 2024.
-[Under Review]
+[Paper] - TBD
 
 ***
 
