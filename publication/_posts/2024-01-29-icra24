@@ -1,0 +1,15 @@
+---
+layout: post
+title: Our paper accepted in ICRA 2024!
+date: 2024-01-29 10:00:00 +0900
+description: >
+    accepted news
+sitemap: false
+hide_last_modified: true
+categories: [publication, news]
+---
+
+![good](/assets/img/good.jpeg){: width="70%" height="70%"}
+
+>__Wonhyeok Choi__, Mingyu Shin, Hyukzae Lee, Jaehoon Cho, Jaehyeon Park, Sunghoon Im. _“Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator”_, IEEE International Conference on Robotics and Automation (ICRA), 2024.
+[<span style='color: skyblue'>[Paper] TBD </span>](https://openreview.net/forum?id=ZNBblMEP16)
