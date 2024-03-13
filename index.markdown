@@ -30,15 +30,16 @@ Publication
 ![realtime](./assets/img/publication/icra24.gif){: width="70%" height="70%"}
 
 >__Wonhyeok Choi\*__, Mingyu Shin\*, Hyukzae Lee, Jaehoon Cho, Jaehyeon Park, Sunghoon Im. _"Multi-task Learning for Real-time Autonomous Driving leveraging Task-wise Attention Generator"_, IEEE International Conference on Robotics and Automation (ICRA), 2024.
-[Paper] - TBD
+[<span style='color: skyblue'>[Paper]</span>](https://arxiv.org/abs/2403.03468)
+
 
 ***
 
 ![depth](./assets/img/publication/nips23.png){: width="70%" height="70%"}
 
 >__Wonhyeok Choi\*__, Mingyu Shin\*, Sunghoon Im. _"Depth-discriminative Metric Learning for Monocular 3D Object Detection"_, Neural Information Processing Systems (NeurIPS), 2023.
-[<span style='color: skyblue'>[Paper]</span>](https://arxiv.org/abs/2401.01075.html)
-[<span style='color: skyblue'>[OpenReview]</span>](https://openreview.net/forum?id=ZNBblMEP16.html)
+[<span style='color: skyblue'>[Paper]</span>](https://arxiv.org/abs/2401.01075)
+[<span style='color: skyblue'>[OpenReview]</span>](https://openreview.net/forum?id=ZNBblMEP16)
 
 ***
 
