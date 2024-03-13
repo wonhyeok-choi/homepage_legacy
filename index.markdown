@@ -38,7 +38,7 @@ Publication
 ![depth](./assets/img/publication/nips23.png){: width="70%" height="70%"}
 
 >__Wonhyeok Choi\*__, Mingyu Shin\*, Sunghoon Im. _"Depth-discriminative Metric Learning for Monocular 3D Object Detection"_, Neural Information Processing Systems (NeurIPS), 2023.
-[<span style='color: skyblue'>[Paper]</span>](https://arxiv.org/abs/2401.01075)
+[<span style='color: skyblue'>[Paper]</span>](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fda257e65f46e21dbc117b20fd0aba3c-Abstract-Conference.html)
 [<span style='color: skyblue'>[OpenReview]</span>](https://openreview.net/forum?id=ZNBblMEP16)
 
 ***
