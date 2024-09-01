@@ -21,6 +21,31 @@ My research interest is computer vision and deep learning, with a particular emp
 >
 > [<a href="./assets/Portfolio_wonhyeok_choi.pdf" download="portfolio.pdf">Download Portfolio</a>]
 
+
+***
+
+<b><span style="color:black; font-size:200%">
+Publication
+</span></b>
+
+![reflective2](./assets/img/publication/ICLR25){: width="70%" height="70%"}
+
+>__Wonhyeok Choi\*__, Kyumin Hwang, Minwoo Choi, Sunghoon Im. _"Self-supervised Monocular Depth Estimation Robust to Reflective Surfaces by Leveraging Triplet Mining"_, (Ongoing Work), 2024-2025.
+[Paper] (Ongoing Work)
+<!-- [<span style='color: skyblue'>[Paper]</span>](https://arxiv.org/abs/2403.03468) -->
+
+***
+
+<b><span style="color:black; font-size:200%">
+Publication
+</span></b>
+
+![reflective1](./assets/img/publication/AAAI25){: width="70%" height="70%"}
+
+>__Wonhyeok Choi\*__, Kyumin Hwang, Minwoo Choi, Kiljoon Han, Wonjun Choi, Mingyu Shin, Sunghoon Im. _"Intrinsic Image Decomposition for Robust Self-supervised Monocular Depth Estimation on Reflective Surfaces"_, The Association for the Advancement of Artificial Intelligence (AAAI), 2025.
+[Paper] (Under Review)
+<!-- [<span style='color: skyblue'>[Paper]</span>](https://arxiv.org/abs/2403.03468) -->
+
 ***
 
 <b><span style="color:black; font-size:200%">
