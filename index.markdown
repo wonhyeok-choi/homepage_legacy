@@ -30,7 +30,7 @@ Publication
 
 ![reflective2](./assets/img/publication/iclr25.png){: width="70%" height="70%"}
 
->__Wonhyeok Choi\*__, Kyumin Hwang, Minwoo Choi, Sunghoon Im. _"Self-supervised Monocular Depth Estimation Robust to Reflective Surfaces by Leveraging Triplet Mining"_, (Ongoing Work), 2024-2025.
+>__Wonhyeok Choi\*__, Kyumin Hwang, Minwoo Choi, Sunghoon Im. _"Self-supervised Monocular Depth Estimation Robust to Reflective Surface Leveraged by Triplet Mining"_, (Ongoing Work), 2024-2025.
 [Paper] (Ongoing Work)
 <!-- [<span style='color: skyblue'>[Paper]</span>](https://arxiv.org/abs/2403.03468) -->
 
