@@ -92,15 +92,23 @@ Academic Activities
 
 #### Reviewer
 
+>International Conference on Learning Representations (ICLR) 2025.
+
 >IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023-2024.
+
+>Conference on Neural Information Processing Systems (NeurIPS) 2024.
 
 >The European Conference on Computer Vision (ECCV) 2024.
 
 >IEEE International Conference on Robotics and Automation (ICRA) 2024.
 
+>IEEE Robotics and Automation Letters (RA-L) 2024.
+
 >IEEE International Conference on Computer Vision (ICCV) 2023.
 
 #### Scholarships & Awards
+
+>Visiting Researcher, Stanford University, Sep. 2024 - Dec. 2024
 
 >Outstanding Researcher Award (디지스트 우수연구자상), Electronic Engineering & Computer Sciences (EECS), DGIST, Dec. 2023
 
