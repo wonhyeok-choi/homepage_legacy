@@ -30,7 +30,7 @@ Publication
 
 ![reflective2](./assets/img/publication/iclr25.png){: width="70%" height="70%"}
 
->__Wonhyeok Choi\*__, Kyumin Hwang, Minwoo Choi, Sunghoon Im. _"Self-supervised Monocular Depth Estimation Robust to Reflective Surface Leveraged by Triplet Mining"_, (Ongoing Work), 2024-2025.
+>__Wonhyeok Choi\*__, Kyumin Hwang*, Minwoo Choi, Sunghoon Im. _"Self-supervised Monocular Depth Estimation Robust to Reflective Surface Leveraged by Triplet Mining"_, (Ongoing Work), 2024-2025.
 [Paper] (Ongoing Work)
 <!-- [<span style='color: skyblue'>[Paper]</span>](https://arxiv.org/abs/2403.03468) -->
 
@@ -38,7 +38,7 @@ Publication
 
 ![reflective1](./assets/img/publication/aaai25.png){: width="70%" height="70%"}
 
->__Wonhyeok Choi\*__, Kyumin Hwang, Minwoo Choi, Kiljoon Han, Wonjun Choi, Mingyu Shin, Sunghoon Im. _"Intrinsic Image Decomposition for Robust Self-supervised Monocular Depth Estimation on Reflective Surfaces"_, The Association for the Advancement of Artificial Intelligence (AAAI), 2025.
+>__Wonhyeok Choi\*__, Kyumin Hwang*, Minwoo Choi, Kiljoon Han, Wonjun Choi, Mingyu Shin, Sunghoon Im. _"Intrinsic Image Decomposition for Robust Self-supervised Monocular Depth Estimation on Reflective Surfaces"_, The Association for the Advancement of Artificial Intelligence (AAAI), 2025.
 [Paper] (Under Review)
 <!-- [<span style='color: skyblue'>[Paper]</span>](https://arxiv.org/abs/2403.03468) -->
 
