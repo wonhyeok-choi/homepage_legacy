@@ -15,7 +15,7 @@ About me
 ![realtime](./assets/img/me2.jpg){: width="70%" height="70%"}
 
 Hi, I am __Wonhyeok Choi__, a M.S.-Ph.D. integrated course student at the Department of Electrical Engineering & Computer Sciences (EECS) at DGIST, South Korea, under the supervision of [<span style='color: skyblue'>Prof. Sunghoon Im</span>](https://sunghoonim.github.io/) in the [<span style='color: skyblue'>DGIST Computer Vision Lab</span>](https://cvlab.dgist.ac.kr/).
-My research interest is computer vision and deep learning, with a particular emphasis on solving __Dynamic Neural network__, __Multi-task learning & Meta-learning__, and __3D perception tasks__.
+My research interest is computer vision and deep learning, with a particular emphasis on solving __Dynamic Neural network__, __Multi-task/Multi-modal learning & Meta-learning__, and __3D perception tasks__.
 
 > [<a href="./assets/Curriculum_Vitae.pdf" download="cv.pdf">Download CV</a>]
 >
@@ -30,8 +30,8 @@ Publication
 
 ![reflective2](./assets/img/publication/iclr25.png){: width="70%" height="70%"}
 
->__Wonhyeok Choi\*__, Kyumin Hwang*, Minwoo Choi, Sunghoon Im. _"Self-supervised Monocular Depth Estimation Robust to Reflective Surface Leveraged by Triplet Mining"_, (Ongoing Work), 2024-2025.
-[Paper] (Ongoing Work)
+>__Wonhyeok Choi\*__, Kyumin Hwang*, Wei Peng, Minwoo Choi, Sunghoon Im. _"Self-supervised Monocular Depth Estimation Robust to Reflective Surface Leveraged by Triplet Mining"_, (Ongoing Work), 2024-2025.
+[Paper] (Under Review)
 <!-- [<span style='color: skyblue'>[Paper]</span>](https://arxiv.org/abs/2403.03468) -->
 
 ***
@@ -77,6 +77,8 @@ Publication
 <b><span style="color:black; font-size:200%">
 Education
 </span><b>
+
+>__Visiting Scholar__ in Psychiatry and Behavioral Sciences, Stanford, USA (Aug. 2024 - Dec. 2024)
 
 >__M.S - Ph.D. Integrated Course__ in Electrical Engineering & Computer Science (EECS), DGIST, South Korea (Mar. 2022 -)
 
