@@ -8,7 +8,7 @@ layout: list
 <!-- # Welcome ! -->
 <!-- ![header](./assets/img/angle-double-right.svg){: width="30" height="30"} -->
 <!-- ![header](./assets/img/header.jpg){: width="30" height="30"} -->
-<b><span style="color:black; font-size:200%">
+<b><span style="color:white; font-size:200%">
 About me
 </span></b>
 
@@ -24,7 +24,7 @@ My research interest is computer vision and deep learning, with a particular emp
 
 ***
 
-<b><span style="color:black; font-size:200%">
+<b><span style="color:white; font-size:200%">
 Publication
 </span></b>
 
@@ -74,7 +74,7 @@ Publication
 
 ***
 
-<b><span style="color:black; font-size:200%">
+<b><span style="color:white; font-size:200%">
 Education
 </span><b>
 
@@ -88,7 +88,7 @@ Education
 
 ***
 
-<b><span style="color:black; font-size:200%">
+<b><span style="color:white; font-size:200%">
 Academic Activities
 </span><b>
 
@@ -126,7 +126,7 @@ Academic Activities
 
 ***
 
-<b><span style="color:black; font-size:200%">
+<b><span style="color:white; font-size:200%">
 Skills
 </span><b>
 
@@ -156,6 +156,6 @@ Skills
 
 ***
 
-<b><span style="color:black; font-size:200%">
+<b><span style="color:white; font-size:200%">
 News
 </span><b>
