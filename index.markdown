@@ -96,7 +96,7 @@ Academic Activities
 
 >International Conference on Learning Representations (ICLR) 2025.
 
->IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023-2024.
+>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023-2025.
 
 >Conference on Neural Information Processing Systems (NeurIPS) 2024.
 
@@ -108,11 +108,15 @@ Academic Activities
 
 >IEEE International Conference on Computer Vision (ICCV) 2023.
 
-#### Scholarships & Awards
+#### Awards
 
->Visiting Researcher, Stanford University, Sep. 2024 - Dec. 2024
+>Top Prize, 16th ICT Paper Competition and Grand Exhibition, Electronic News, Dec. 2024
+
+>3rd Prize, 30th HumanTech Paper Award, Samsung Electronics Co., Ltd, Feb. 2024
 
 >Outstanding Researcher Award (디지스트 우수연구자상), Electronic Engineering & Computer Sciences (EECS), DGIST, Dec. 2023
+
+>Excellence Prize, 15th ICT Paper Competition and Grand Exhibition, Electronic News, Dec. 2023
 
 >Hwang Gyuyoung Outstanding Researcher Award (황규영 우수연구자상), Electronic Engineering & Computer Sciences (EECS), DGIST, Oct. 2023
 
